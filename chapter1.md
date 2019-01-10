@@ -41,25 +41,5 @@ skills: 2
 
 `@sct`
 ```{python}
-
+Ex().override()
 ```
-
----
-
-## Insert exercise title here
-
-```yaml
-type: PureMultipleChoiceExercise
-key: 37a31f1869
-xp: 50
-```
-
-``
-
-`@hint`
-
-
-`@possible_answers`
-
-
-`@feedback`
